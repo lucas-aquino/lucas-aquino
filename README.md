@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Lucas and I'm a full stack developer, from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a sofware developer, from Argentina</h2>
 
 ###
 
@@ -62,10 +62,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lucas--aquino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=lucas--aquino&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/luckasakino/" target="_blank">
+  <a href="https://www.instagram.com/lucasaquino.o/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=luckasakino&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/luckasakino" target="_blank">
+  <a href="https://twitter.com/lucasaquino_o" target="_blank">
     <img src="https://img.shields.io/static/v1?message=luckasakino&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@lucas-aquino" target="_blank">
